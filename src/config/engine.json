@@ -1,0 +1,16 @@
+{
+  "engineName": "sampple1",
+  "hostIdentifier": "host-z3e3by",
+  "endpointBase": "https://host-z3e3by.api.swiftype.com",
+  "searchKey": "search-qcu9kahq53m2542zp9vhqi1k",
+  "resultFields": [
+    "name",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ]
+}
